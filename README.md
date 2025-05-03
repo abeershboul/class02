@@ -1,5 +1,6 @@
 # class02
-## branches and github pages
+
+## branches and github pages and conflicts
 
  ## hello from main
 
