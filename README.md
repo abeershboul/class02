@@ -1,5 +1,5 @@
 # class02
-## branches 
+## branches and github pages
 
  ## hello from main
 
@@ -10,3 +10,5 @@
 | Malroy | Not so nice guy. Tries to mess with the communication of Alice and Bob. |
 
 ![google](Google_2015_logo.svg.png)
+
+
